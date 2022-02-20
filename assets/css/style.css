@@ -1,0 +1,59 @@
+/*google fonts LATO and montserrat*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&display=swap');
+
+/*top nav bar*/
+ 
+#navbar {
+    overflow: hidden;
+    background-color: #EB5E28;
+    position: sticky;
+    
+  }
+  #navbar a {
+    float: left;
+    display: block;
+    color: #CCC5B9;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }  
+
+
+
+#header{
+    float: left;
+    font-size: 210%;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+#menu{
+    font-size: 120%;
+    letter-spacing: 4px;
+    color: #403D39;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #252422;
+}
+/*
+ #logo{
+    width: 46px;
+    height: auto;
+    padding-right: 5px;
+    overflow: hidden;
+    display: inline;
+}
+
+ #logo{
+    display: inline-block;
+}
