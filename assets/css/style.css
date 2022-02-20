@@ -7,14 +7,13 @@
     overflow: hidden;
     background-color: #EB5E28;
     position: sticky;
-    
   }
   #navbar a {
     float: left;
     display: block;
     color: #CCC5B9;
     text-align: center;
-    padding: 14px;
+    padding: 15px;
     text-decoration: none;
   }  
 
@@ -45,7 +44,7 @@
 #menu a:hover{
     border-bottom: 1px solid #252422;
 }
-/*
+/* need to add an icon besdie web name title
  #logo{
     width: 46px;
     height: auto;
@@ -56,4 +55,84 @@
 
  #logo{
     display: inline-block;
+}
+*/
+
+/* home image*/
+
+#main-image {
+    height:600px;
+    width:100%;
+    background:url(../images/pexels-polina-kovaleva-7573383.jpg) no-repeat center center;
+    animation-name: main-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    
+}
+#main-outer {
+    height:100%;
+    width:100%;
+    overflow:hidden;
+    position: relative;
+}
+#main-text {
+    font-size: 130%;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 270px;
+    height: 200px;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: rgba(204, 197, 185, 0.5);
+    bottom: 30px;
+    right: 150px;
+    position:absolute;
+    right: 10%;
+    top:45%;
+    
+}
+
+@keyframes main-zoom {
+    from{
+        transform: scale(1.0);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+.op-heading{
+    font-family: Lato, 'sans-serif';
+    font-size: 1.8rem;
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    color: #252422;
+    
+}
+
+.op-heading2{
+    font-family: Lato, 'sans-serif';
+    font-size: 1.8rem;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    color: #252422;
+   
+}
+.op-paragraph > h5{
+    font-family: Montserrat, 'sans-serif';
+    font-size: 1.2rem;
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    color:#403D39;
+    
+}
+.class{
+    background-color: rgba(204, 197, 185, 0.5);
+    overflow: hidden;
+    width: 50%;
+    position: absolute;
+    height:auto;
 }
