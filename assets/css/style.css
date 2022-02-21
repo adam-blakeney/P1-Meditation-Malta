@@ -107,7 +107,7 @@
     position: absolute;
     left: 5%;
     top: 15%;
-    color: #252422;
+    color: #CCC5B9;
     
 }
 
@@ -117,7 +117,7 @@
     position: absolute;
     left: 5%;
     top: 20%;
-    color: #252422;
+    color: #CCC5B9;
    
 }
 .op-paragraph > h5{
@@ -126,13 +126,16 @@
     position: absolute;
     left: 5%;
     top: 30%;
-    color:#403D39;
+    color:#FFFCF2;
     
 }
+/*
 .class{
-    background-color: rgba(204, 197, 185, 0.5);
-    overflow: hidden;
-    width: 50%;
-    position: absolute;
-    height:auto;
+    width: 270px;
+    height: 200px;
+    padding-top: 5px;
+    padding-left: 10px;
+    background-color: rgba(204, 197, 185 0.5);
+    bottom: 30px;
+    right: 150px;
 }
