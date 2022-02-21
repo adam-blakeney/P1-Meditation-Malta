@@ -31,7 +31,7 @@
 #header{
     float: left;
     font-size: 210%;
-    margin-left: 80px;
+    margin-left: 70px;
     text-decoration: none;
 }
 
@@ -142,6 +142,70 @@
     left: 9%;
     top: 30%;
     color:#FFFCF2;
-    
 }
 
+/* main body */
+#intro{
+    font-family: Montserrat, 'sans-serif';
+    font-weight: 300;
+    font-size: 1.6rem;
+    color: #403D39;
+    text-decoration: underline;
+    text-decoration-thickness: 1px ;
+    text-align: center;
+}
+
+#circle-container{
+    width: 180px;
+    height: 180px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #403D39;
+    border-width: 1px;
+    border-radius: 30%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#circle-cover-bg {
+    background: url('../images/pexels-elizabeth-baltadjieva-4080222\ \(2\).jpg')no-repeat center left;
+    height: 100%;
+    border-radius: 30%;
+}
+
+#picture-container{
+    width: 180px;
+    height: 180px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #403D39;
+    border-width: 1px;
+    border-radius: 30%;
+    margin-top: 45%;
+    margin-left: 20%;
+    
+    
+}
+#picture-2 {
+    background: url('../images/pexels-polina-kovaleva-7692299\ \(2\).jpg')no-repeat center center;
+    height: 100%;
+    border-radius: 30%;
+}
+
+#picture-container2{
+    width: 180px;
+    height: 180px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #403D39;
+    border-width: 1px;
+    border-radius: 30%;
+    margin-top: 45%;
+    margin-left: 40%;
+    
+    
+}
+#picture-3 {
+    background: url('../images/pexels-polina-kovaleva-7599976.jpg')no-repeat center center;
+    height: 100%;
+    border-radius: 30%;
+}
