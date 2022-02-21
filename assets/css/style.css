@@ -209,3 +209,10 @@
     height: 100%;
     border-radius: 30%;
 }
+
+#first-p {
+    text-align: left;
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
