@@ -7,12 +7,15 @@
     border:none;
     padding: 0;
 }
- 
+
+
 #navbar {
     overflow:hidden;
     background-color: #EB5E28;
-    position:-webkit-sticky;
-    height:40% ;
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
   }
   #navbar a {
     float: left;
