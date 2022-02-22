@@ -26,6 +26,11 @@
     text-decoration: none;
   }  
 
+  #menu li a.active {
+    color: #CCC5B9;
+    font-size: larger;
+    text-decoration: underline;
+}
 
 
 #header{
@@ -54,19 +59,7 @@
 #menu a:hover{
     border-bottom: 1px solid #252422;
 }
-/* need to add an icon besdie web name title
- #logo{
-    width: 46px;
-    height: auto;
-    padding-right: 5px;
-    overflow: hidden;
-    display: inline;
-}
 
- #logo{
-    display: inline-block;
-}
-*/
 
 /* home image*/
 
@@ -145,6 +138,7 @@
 }
 
 /* main body */
+
 #intro{
     font-family: Montserrat, 'sans-serif';
     font-weight: 300;
@@ -215,4 +209,10 @@
     position: relative;
     left: 400px;
     top: 100px;
+}
+
+#ourservices{
+    margin: 0;
+    padding: 0;
+    max-width:fit-content;
 }
