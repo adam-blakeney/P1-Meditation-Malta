@@ -278,20 +278,28 @@
 }
 
 .arrow-down {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-align: center;
     font-weight: 500;
     position: relative;
-    left:50%;
+    float: left;
+   
 }
 
 .scroll-info {
     color: #EB5E28;
-    width: 100vh;
+    width: 50%;
     padding-top: 0;
     text-align: center;
-    position: relative;
-    left:50%;
+    margin: auto;
+    float: left;
+    left: 25%;
+}
+
+#arrow1{
+    background-color: #CCC5B9;
+    margin-top: 0%;
+    overflow-x: hidden;
 }
 
 /*--- https://gist.github.com/gubi/8483199 ---*/
@@ -361,3 +369,4 @@ footer {
     margin-bottom: 10px;
 
 }
+
