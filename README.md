@@ -6,4 +6,5 @@ text over photo
 gap on photo add instrutions for below
 
 fixed icons with adding the style at bottom
-<add alt text></add>
+
+would like to add share or print option to outtimes page
