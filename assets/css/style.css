@@ -425,7 +425,7 @@ footer {
     font-family: Lato ,'sans-serif';
     font-weight: 300;
     font-size: 2rem;
-    color: #403D39;
+    color: #CCC5B9;
     text-align: center;
     float: left;
     margin-left: 30%;
@@ -436,7 +436,7 @@ footer {
     font-family: Lato ,'sans-serif';
     font-weight: 300;
     font-size: 1.4rem;
-    color: #403D39;
+    color: #CCC5B9ß;
     text-align: center;
 }
 /*form*/
@@ -454,8 +454,9 @@ footer {
     background-color:rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left:10%;
+    left:35%;
     padding:30px;
+    top: 10%;
 }
 .signup-form > h2{
     color:#fafafa;
@@ -492,4 +493,11 @@ footer {
 }
 #form{
     height:600px
+}
+
+#form-div{
+    height:600px;
+    width:100%;
+    background:url(../images/pexels-polina-kovaleva-7573383.jpg) no-repeat center center;
+   
 }
