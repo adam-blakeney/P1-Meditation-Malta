@@ -8,11 +8,42 @@ To accomplish this I made sure to give the website claity and a path. The webist
 
 Overall, the website serves its purpose of being a promotional front and a point of contact that protrays the company in a positive and friendly manner.
 
-<img src:>
+![image](assets/images/Screenshot 2022-03-01 at 22.03.56.png)
 
-<h2>Features</h2>
 
-<h3>Navigation Bar</h3>
+# Table of Contents:
+
+- [**Features**](#features)
+  * [1. Navigation bar](#1-navigation-bar)
+  * [2. Landing Page](#2-landing-page)
+  * [3. What we do](#3-What-we-do-section)
+  * [4. Our Renewable Technology](#4-our-renewable-technology)
+  * [5. About us / Meet the team](#5-about-us---meet-the-team)
+  * [6. Get in touch](#6-get-in-touch)
+  * [7. Future Features](#7-future-features)
+- [**Technologies**](#technologies-used)
+  * [Languages](#languages)
+  * [Libraries, Frameworks and Technologies](#libraries--frameworks-and-technologies)
+  * [Workspace and Version Control](#workspace-and-version-control)
+- [**Testing**](#testing)
+  * [Code Validators](#code-validators)
+  * [Responsive Elements](#responsive-elements)
+  * [UX User Story Test](#ux-user-story-test)
+  * [Manual Testing](#manual-testing)
+  * [Bugs and Fixes](#bugs-and-fixes)
+- [**Deployment**](#deployment)
+  * [Github Pages Deployment:](#github-pages-deployment-)
+  * [Forking The Repository:](#forking-the-repository-)
+  * [Creating a local clone:](#creating-a-local-clone-)
+- [**Credits**](#credits)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgements](#acknowledgements)
+
+
+# **Features**
+
+## 1. Navigation Bar
 I created the navigation bar with navigation in mind, but more particulary knowing where you are. 
 The elements of the navigation bar will not only become interactive when you hover on them when looking where to go,  but they will stay highlighted on the current page you are on. 
 
@@ -20,17 +51,19 @@ I did this as i have added links at the bottom of each page that will lead you s
 I also added the ability to use the logo as a way back to the home as this is a standard in todays websites.
 
 
-<h3>Landing page</h3>
+## 2. Landing page
 
 The landing page image was chosen as i adds a calmness to the page but also falls into the background leaving tha main attention on the content that lays on it.
 
 this image should give them a good introdution to the page but also give a bit of intrigue to keep looking.
 
-<h4>What We do section</h4>
+## 3. What we do section
 The what we do section is the most content heavy part of the website. i but this on the landing page as when users have to work to try and find info it is less likely to continue interacting.
 
 i split it up into 3 sectios each with a small pin photo, that give a small insight to what is being described.
 the description consists of a heading that is the service title and a small paragraph placed adjacent to give the user as much info about it in a short readable amount.
+
+
 
 
 issues:
