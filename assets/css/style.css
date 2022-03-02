@@ -369,7 +369,7 @@ footer {
 #bottom-gallery{
     margin-top: 10px;
     margin-bottom: 10px;
-    height:300x
+    
 }
 
 /*our times*/
@@ -436,7 +436,7 @@ footer {
     font-family: Lato ,'sans-serif';
     font-weight: 300;
     font-size: 1.4rem;
-    color: #CCC5B9ß;
+    color: #CCC5B9;
     text-align: center;
 }
 /*form*/
@@ -554,8 +554,8 @@ footer {
         
     }
     #menu{
-        font-size: 40%;
-        margin-right: -25px;
+        font-size: 0.33rem;
+        margin-right: -30px;
         padding: 0;
         margin-top: 18px;
 
@@ -589,17 +589,17 @@ footer {
   }
   #first-h{
     left:180px;
-    font-size: 100%;
+    font-size: 92%;
     top: 30px;
   }
   #second-h{
     left:0px;
-    font-size: 100%;
+    font-size: 92%;
     top: 160px;
   }
   #third-h{
     left:180px;
-    font-size: 100%;
+    font-size: 92%;
     top: 150px;
   }
   #first-p{
@@ -641,6 +641,4 @@ footer {
      left:10%;
      top: 0;
   }
-    
-  
 }

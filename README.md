@@ -185,6 +185,9 @@ I used 2 code validators for my site one for the html and one for the css.
  __Lighthouse__
  The Lighthouse developer tool was also used.
 
+i used these sites to continually assess my code during my project to clear any code errors early. 
+i did a final check of my code at the end and was only left with this notice which is okay as i do not want a header in this position.
+?insetn ss///
 
 
 issues:
