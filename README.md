@@ -23,11 +23,9 @@ Overall, the website serves its purpose of being a promotional front and a point
   * [4. Gallery](#4-gallery)
   * [5. Our Times](#5-our-times)
   * [6. Sign Up](#6-sign-up)
-  * [7. Future Features](#7-future-features)
-- [**Technologies**](#technologies-used)
-  * [Languages](#languages)
-  * [Libraries, Frameworks and Technologies](#libraries--frameworks-and-technologies)
-  * [Workspace and Version Control](#workspace-and-version-control)
+  * [7. Footer](#7-footer)
+- [**Technologies used**](#technologies-used)
+  * [Websites](#websites)
 - [**Testing**](#testing)
   * [Code Validators](#code-validators)
   * [Responsive Elements](#responsive-elements)
@@ -138,6 +136,55 @@ Firstly making it as convient as possible , secondly making it clear as to what 
 Finally as it is an area where its mistake prone i had to add the required feature so nothing is missed and ensuure each area is coded correctly so the company can utilise all the information recieved.
 
 The website all led up to this point as it requires a final decision to complete the form on which service they would like so this form will only be effictive if all other stages had complete their intended duty.
+
+## 7. Footer
+
+The footer i used in this website is a modern simplistic one. I decided to avoid clutter by adding text to it as often it doesnt add any value to the user and can distract from the relevant content.
+
+So it is more of a social media contact bar. it is clear and obvious what is provided in it and the use of icons keeps space used to a minimum but provides familiarity to users.
+
+
+
+# **Technologies used**
+## Websites
+
+In the creation of this website there were multiple websites i used. below is a list to credit them and their use in my site.
+__coolers__
+(https://coolors.co/palette/fffcf2-ccc5b9-403d39-252422-eb5e28)
+I used this site to chose my color pallete that would be the basis for my visual theme in the site.
+
+__Slack__
+(https://slack.com/intl/en-ie/)
+slack used to see how issues from other students were solved and to help with my own issues and to find work arounds
+
+__Stackoverflow__
+(https://stackoverflow.com/)
+
+Stackoverflow was used to help me with more specific ideas and to help me with coming up and learning new ideas. 
+
+__Google fonts__
+(https://fonts.google.com/)
+
+Google fonts was used to find my fonts that i would iuse for my site which were , Montserrat and Lato.
+
+__Font awesome__
+(https://fontawesome.com/)
+
+Font awesome was used for the icons present in my site. 
+
+# **Testing**
+
+## Code validators ##
+I used 2 code validators for my site one for the html and one for the css.
+ __HTML__
+ (https://validator.w3.org/#validate_by_input)
+
+ __CSS__
+ (https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+ __Lighthouse__
+ The Lighthouse developer tool was also used.
+
 
 
 issues:
