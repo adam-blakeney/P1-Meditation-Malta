@@ -2,6 +2,8 @@
 
 The project has been undertaken to promote a fictional company based on [project idea 3] called "Meditation Malta". 
 
+Visit Meditation Malta [here](https://adam-blakeney.github.io/P1-Meditation-Malta/index.html).
+
 The aims of this site is to give the user a good insight and understanding to the services provided by the company but alo give them a quick and accesable way to contact the company in order to avail of the services.
 
 To accomplish this I made sure to give the website claity and a path. The webist is broken down into 4 disticnt sectiosn each offering new information while still holding the theme and feel of the webiste.
@@ -32,9 +34,7 @@ Overall, the website serves its purpose of being a promotional front and a point
   * [Bugs and Fixes](#bugs-and-fixes)
   * [Improvements] (#improvements)
 - [**Deployment**](#deployment)
-  * [Github Pages Deployment:](#github-pages-deployment-)
-  * [Forking The Repository:](#forking-the-repository-)
-  * [Creating a local clone:](#creating-a-local-clone-)
+  * [Github Deployment:](#github-deployment)
 - [**Credits**](#credits)
   * [Content](#content)
   * [Media](#media)
@@ -232,13 +232,48 @@ I would like to add drop down menu on mobile to the nav bar.
 I feel this is almost required for todays website as the current nav bar required alot of resizing of text to get it to fit.
 so with a dropdown menu this would give a more comfortable feel.
 
+# **Deployment**
+## Github deployment
 
-issues:
-nav to tick to page
-page didnt fill screen
-logo
-text over photo
-gap on photo add instrutions for below
+The project is deployed to GitHub Pages. To deploy the site follow the instruction below.
 
-fixed icons with adding the style at bottom
+1. In GitHub navigate to the MS1 RedBog Renewables Repository.
+2. Locate 'Settings', navigate to 'Source' and select Master Branch from the dropdown and click Save.
+3. Refresh page
+4. The site will be published and confirmation shown on the page.
+
+# **Credits**
+## Content 
+
+- The pulse and bounce animation found on my home page is Gubis code found here: [Pulse and Bounce](https://gist.github.com/gubi/8483199)
+
+## Media
+
+All images were sourced from [pexels](https://www.pexels.com/)
+
+From the following people
+  -Andrea Piacquadio
+
+  -Elizabeth Baltadjevia
+
+  -Kampus Pro X3
+
+  -Llanera lebra 
+
+  -Olia Danilevich X3
+
+  -Pixabay
+
+  -Polia Kovaleva X3
+
+  -Renzo Alarco
+
+  -Tayrn Elliot
+
+
+
+
+
+
+
 
