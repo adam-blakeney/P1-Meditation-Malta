@@ -28,10 +28,9 @@ Overall, the website serves its purpose of being a promotional front and a point
   * [Websites](#websites)
 - [**Testing**](#testing)
   * [Code Validators](#code-validators)
-  * [Responsive Elements](#responsive-elements)
-  * [UX User Story Test](#ux-user-story-test)
   * [Manual Testing](#manual-testing)
   * [Bugs and Fixes](#bugs-and-fixes)
+  * [Improvements] (#improvements)
 - [**Deployment**](#deployment)
   * [Github Pages Deployment:](#github-pages-deployment-)
   * [Forking The Repository:](#forking-the-repository-)
@@ -151,7 +150,8 @@ So it is more of a social media contact bar. it is clear and obvious what is pro
 In the creation of this website there were multiple websites i used. below is a list to credit them and their use in my site.
 __coolers__
 (https://coolors.co/palette/fffcf2-ccc5b9-403d39-252422-eb5e28)
-I used this site to chose my color pallete that would be the basis for my visual theme in the site.
+I used this site to chose my color pallete that would be the basis for my visual theme in the site. 
+This is the linnk to the color pallete I used.
 
 __Slack__
 (https://slack.com/intl/en-ie/)
@@ -174,8 +174,9 @@ Font awesome was used for the icons present in my site.
 
 # **Testing**
 
-## Code validators ##
+## Code validators 
 I used 2 code validators for my site one for the html and one for the css.
+
  __HTML__
  (https://validator.w3.org/#validate_by_input)
 
@@ -185,9 +186,51 @@ I used 2 code validators for my site one for the html and one for the css.
  __Lighthouse__
  The Lighthouse developer tool was also used.
 
-i used these sites to continually assess my code during my project to clear any code errors early. 
+I used these sites to continually assess my code during my project to clear any code errors early. 
 i did a final check of my code at the end and was only left with this notice which is okay as i do not want a header in this position.
 ?insetn ss///
+
+## Manual testing
+
+The maual testing i done was mainly carried ut by using the command {python3 -m http.server}.
+this gave me a preview of the website and the code ive just added. so this would show me if the code has actually worked whether or not if the code is written correcly or not. 
+
+This also was a big help with CSS and sizing as i could see what colours work and pictures but also see if the content is being laid out in the way i want.
+
+Using the inspect function was a second way for me to text the website. i would use this to see how the page would be displayed with diffrent screen sizes.
+Using this i was able to adapt my code for mobile devices {MOTO g4 and iphone 12}.
+
+
+## Bugs and Fixes
+
+during this project i ran in to countless bugs issues and things i would have to just take a different approch with as i couldnt get it how i wanted.
+
+Here i will explaian briefly a select few of them.
+
+the fist issue i encountered was getting the nav bar to stick to the top of the page.
+i spent alot of time reseaching this and experimenting. 
+finally i got a resolution which seemed to be very different to sample solutions i found on the above websites. using the position: fixed element was my solution.
+
+the next large issue was my landing page was not filling the whole screen. i had cleared all the padding and margin at the top but was still unsatisfactory. 
+Following this i was met with an issue of the page creating a horizontal scroll bar for alot of blank space on the side. 
+this happened multiple times and following this project i will be looking to see how to avoid this in the future.
+
+## Improvements
+
+There are three things i identified during my project and on review that i was unable to do, for lack of knowledge that i would have liked to incorporate. I hope to learn how to do this to be able to incorporate in future projects.
+
+I would like to add share or print option to the ourtimes page. 
+
+This would allow users to share the upto date info with friends or it would allow people to print it out for remiders or even to post in shops or by the business areas.
+
+I would like to add when "book now" is selected it preselects the option on the sign up page.
+
+This would add more purpose to the selection on this page as currently it just brings you to the sign up page. 
+
+I would like to add drop down menu on mobile to the nav bar.
+
+I feel this is almost required for todays website as the current nav bar required alot of resizing of text to get it to fit.
+so with a dropdown menu this would give a more comfortable feel.
 
 
 issues:
@@ -199,6 +242,3 @@ gap on photo add instrutions for below
 
 fixed icons with adding the style at bottom
 
-would like to add share or print option to outtimes page
-would like to add when book now it preselects the option.
-would like to add drop down menu on mobile
