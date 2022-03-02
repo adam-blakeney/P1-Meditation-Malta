@@ -12,14 +12,17 @@ Overall, the website serves its purpose of being a promotional front and a point
 
 
 # Table of Contents:
-
+- [**UX**](#ux)
+  * [User aims](#user-aims)
+  * [Strategy](#strategy)
+  * [Structure](#structure)
 - [**Features**](#features)
   * [1. Navigation bar](#1-navigation-bar)
   * [2. Landing Page](#2-landing-page)
-  * [3. What we do](#3-What-we-do-section)
-  * [4. Our Renewable Technology](#4-our-renewable-technology)
-  * [5. About us / Meet the team](#5-about-us---meet-the-team)
-  * [6. Get in touch](#6-get-in-touch)
+  * [3. What we do section](#3-what-we-do-section)
+  * [4. Gallery](#4-gallery)
+  * [5. Our Times](#5-our-times)
+  * [6. Sign Up](#6-sign-up)
   * [7. Future Features](#7-future-features)
 - [**Technologies**](#technologies-used)
   * [Languages](#languages)
@@ -41,6 +44,52 @@ Overall, the website serves its purpose of being a promotional front and a point
   * [Acknowledgements](#acknowledgements)
 
 
+# **UX**
+## 1. User aims
+here i have a list of things i created that i would look for/ expcet in a website as a user.
+
+As a user, I would like to quickly and effectively understand the purpose and information of the site.
+As a user, I need to be able to easily navigate the website.
+As a user, I would like to know what services the company provides and specific details (ie.price).
+As a user, I would like to contact the company, and quickly filter what service I am interested in.
+As a new user, knowing where the company is located and how do i avail of the service
+As a user, I would like to use the site on mobile and desktop.
+
+Returning Users
+
+As a returning user, I would like to be able to quickly navigate to a specific area of the site. i.e Go directly to the sign up page.
+As a returning user, I need to be able to gain more information about relevant services that may have chaged or if i want to chose a different one.
+
+
+## 2. Strategy
+Project goals
+
+The aim of this project is to build a site for a fictional company  (project idea 3) and enable the company to create a professional and effective online presence. It was important for me to create a user-friendly and modern site, that in effect inticed the user to discover more about the services provided. Overall, it was imperative to display information and content relevant to the company through well structured design and navigation, aesthitic imagery and colour.
+
+With regard to the content of the site, I aimed to provide 3 baisic needs that the company wanted users to be able to know or be made capable of.
+
+What are the services that company provide?
+Where/when are they available?
+How do i avail of them?
+
+these are vary baisic questions but are of uptmost importance for a user looking for such a service and are often over looked.
+
+
+## 3. Structure
+
+The structure of the website is based around a multi page site. With a navigational plan incorportated.
+the site is split into 4 different pages each holding a similar feel and look.
+
+__The navigational plan.__
+
+The plan i had created to ensure the flow and consistency to the site was by creating a clear path and ensuring the user knwos where they are on that path.
+
+The fundamental part to it was showing the user where they need to go next and not just giving them everything at once and left to figure it out. I accomplised this by have small links at the bottim of the page/content that would lead the to the next most relevant page.
+
+One issue that can come up with this is that the user my lose where they are in the web of the page. so to try over come this i added the feature of hilighted page name on the navigation bar. So each time a link is clicked it will go to the top of that page with the name on the naviagtion bar highlighted.
+
+The sequence created by the plan is HOME > GALLERY > OUR TIMES > SIGN UP.
+
 # **Features**
 
 ## 1. Navigation Bar
@@ -60,10 +109,35 @@ this image should give them a good introdution to the page but also give a bit o
 ## 3. What we do section
 The what we do section is the most content heavy part of the website. i but this on the landing page as when users have to work to try and find info it is less likely to continue interacting.
 
-i split it up into 3 sectios each with a small pin photo, that give a small insight to what is being described.
+I split it up into 3 sectios each with a small pin photo, that give a small insight to what is being described.
 the description consists of a heading that is the service title and a small paragraph placed adjacent to give the user as much info about it in a short readable amount.
 
+included at the bottom of this section is an interactive down arrow (which i creditied and learned to do from other source) this arrow is the first step in my navigation plan for the site.
 
+## 4. Gallery
+
+The gallery is the next natural step in the page which is led by the interactive arrow link. i did this as the user has just read about what we offer so now they can get a taste for it by seeing it. 
+i aimed to give the user the most information possible before the site offers them any option to get in touch or book the service in the hope to offer the best user experience.
+
+The photos are arranged in a aesthetically pleasing way. in a collage format. with different sizes and positions that give it a timeline feel without being messy.
+at the bottom is the second example of my navigation plan, with another interactive link to what the site aims to have as the penultimate step in the experience.
+
+## 5. Our times
+
+This page follows the idea of the first two in the way of presenting inforamtion in a simplistic way to consume but now instead of just gi ving information now it requires input or feedback from the user. this page give three columns that give a detailed info on the three services provided with the times, dates and prices.
+
+At this point the consumer has to make a choice so my priority here was to ensure that the consumer had all the inofrmation needed to make an informed decision as consumers are less likely to continue from this point if they are unsure about the price or the times as they will not be able to comit to anything with out knowing this. 
+
+
+## 6. Sign Up
+
+The final page of the website is a form page. this page requires information input from the user. knowing this there were a few factors i had to consider. 
+
+Firstly making it as convient as possible , secondly making it clear as to what will be required and where. 
+
+Finally as it is an area where its mistake prone i had to add the required feature so nothing is missed and ensuure each area is coded correctly so the company can utilise all the information recieved.
+
+The website all led up to this point as it requires a final decision to complete the form on which service they would like so this form will only be effictive if all other stages had complete their intended duty.
 
 
 issues:
@@ -76,3 +150,5 @@ gap on photo add instrutions for below
 fixed icons with adding the style at bottom
 
 would like to add share or print option to outtimes page
+would like to add when book now it preselects the option.
+would like to add drop down menu on mobile
