@@ -32,7 +32,7 @@ Overall, the website serves its purpose of being a promotional front and a point
   * [Code Validators](#code-validators)
   * [Manual Testing](#manual-testing)
   * [Bugs and Fixes](#bugs-and-fixes)
-  * [Improvements] (#improvements)
+  * [Improvements](#improvements)
 - [**Deployment**](#deployment)
   * [Github Deployment:](#github-deployment)
 - [**Credits**](#credits)
@@ -43,19 +43,20 @@ Overall, the website serves its purpose of being a promotional front and a point
 
 # **UX**
 ## 1. User aims
-here i have a list of things i created that i would look for/ expcet in a website as a user.
+Here I have a list I created of things  that I would look for/ expcet in a website as a user.
 
 As a user, I would like to quickly and effectively understand the purpose and information of the site.
 As a user, I need to be able to easily navigate the website.
 As a user, I would like to know what services the company provides and specific details (ie.price).
 As a user, I would like to contact the company, and quickly filter what service I am interested in.
-As a new user, knowing where the company is located and how do i avail of the service
+As a new user, knowing where the company is located and how do I avail of the service
 As a user, I would like to use the site on mobile and desktop.
 
 Returning Users
 
-As a returning user, I would like to be able to quickly navigate to a specific area of the site. i.e Go directly to the sign up page.
-As a returning user, I need to be able to gain more information about relevant services that may have chaged or if i want to chose a different one.
+As a returning user, I would like to be able to quickly navigate to a specific area of the site. i.e Go directly to the Sign up page.
+
+As a returning user, I need to be able to gain more information about relevant services that may have chaged or if I want to chose a different one.
 
 
 ## 2. Strategy
@@ -67,7 +68,7 @@ With regard to the content of the site, I aimed to provide 3 baisic needs that t
 
 What are the services that company provide?
 Where/when are they available?
-How do i avail of them?
+How do I avail of them?
 
 these are vary baisic questions but are of uptmost importance for a user looking for such a service and are often over looked.
 
@@ -75,15 +76,15 @@ these are vary baisic questions but are of uptmost importance for a user looking
 ## 3. Structure
 
 The structure of the website is based around a multi page site. With a navigational plan incorportated.
-the site is split into 4 different pages each holding a similar feel and look.
+The site is split into 4 different pages each holding a similar feel and look.
 
 __The navigational plan.__
 
-The plan i had created to ensure the flow and consistency to the site was by creating a clear path and ensuring the user knwos where they are on that path.
+The plan I had created to ensure the flow and consistency to the site was by creating a clear path and ensuring the user knwos where they are on that path.
 
 The fundamental part to it was showing the user where they need to go next and not just giving them everything at once and left to figure it out. I accomplised this by have small links at the bottim of the page/content that would lead the to the next most relevant page.
 
-One issue that can come up with this is that the user my lose where they are in the web of the page. so to try over come this i added the feature of hilighted page name on the navigation bar. So each time a link is clicked it will go to the top of that page with the name on the naviagtion bar highlighted.
+One issue that can come up with this is that the user my lose where they are in the web of the page. so to try over come this I added the feature of highlighted page name on the navigation bar. So each time a link is clicked it will go to the top of that page with the name on the naviagtion bar highlighted.
 
 The sequence created by the plan is HOME > GALLERY > OUR TIMES > SIGN UP.
 
@@ -99,63 +100,63 @@ I also added the ability to use the logo as a way back to the home as this is a 
 
 ## 2. Landing page
 
-The landing page image was chosen as i adds a calmness to the page but also falls into the background leaving tha main attention on the content that lays on it.
+The landing page image was chosen as it adds a calmness to the page but also falls into the background leaving tha main attention on the content that lays on it.
 
-this image should give them a good introdution to the page but also give a bit of intrigue to keep looking.
+This image should give them a good introdution to the page but also give a bit of intrigue to keep looking.
 
 ## 3. What we do section
-The what we do section is the most content heavy part of the website. i but this on the landing page as when users have to work to try and find info it is less likely to continue interacting.
+The what we do section is the most content heavy part of the website. I put this on the landing page as when users have to work to try and find info it is less likely to continue interacting.
 
-I split it up into 3 sectios each with a small pin photo, that give a small insight to what is being described.
-the description consists of a heading that is the service title and a small paragraph placed adjacent to give the user as much info about it in a short readable amount.
+I split it up into 3 sectios each with a small pin photo for each, that gives a small insight to what is being described.
+The description consists of a heading that is the service title and a small paragraph placed adjacent to give the user as much info about it in a short readable amount.
 
-included at the bottom of this section is an interactive down arrow (which i creditied and learned to do from other source) this arrow is the first step in my navigation plan for the site.
+Included at the bottom of this section is an interactive down arrow (which I creditied and learned to do from other source) this arrow is the first step in my navigation plan for the site.
 
 ## 4. Gallery
 
-The gallery is the next natural step in the page which is led by the interactive arrow link. i did this as the user has just read about what we offer so now they can get a taste for it by seeing it. 
-i aimed to give the user the most information possible before the site offers them any option to get in touch or book the service in the hope to offer the best user experience.
+The gallery is the next natural step in the page which is led by the interactive arrow link. I did this as the user has just read about what we offer so now they can get a taste for it by seeing it. 
+I aimed to give the user the most information possible before the site offers them any option to get in touch or book the service in the hope to offer the best user experience.
 
 The photos are arranged in a aesthetically pleasing way. in a collage format. with different sizes and positions that give it a timeline feel without being messy.
-at the bottom is the second example of my navigation plan, with another interactive link to what the site aims to have as the penultimate step in the experience.
+At the bottom is the second example of my navigation plan, with another interactive link to what the site aims to have as the penultimate step in the experience.
 
 ## 5. Our times
 
 This page follows the idea of the first two in the way of presenting inforamtion in a simplistic way to consume but now instead of just gi ving information now it requires input or feedback from the user. this page give three columns that give a detailed info on the three services provided with the times, dates and prices.
 
-At this point the consumer has to make a choice so my priority here was to ensure that the consumer had all the inofrmation needed to make an informed decision as consumers are less likely to continue from this point if they are unsure about the price or the times as they will not be able to comit to anything with out knowing this. 
+At this point the consumer has to make a choice so my priority here was to ensure that the consumer had all the inofrmation needed to make an informed decision as consumers are less likely to continue from this point if they are unsure about the price or the times as they will not be able to commit to anything with out knowing this. 
 
 
 ## 6. Sign Up
 
-The final page of the website is a form page. this page requires information input from the user. knowing this there were a few factors i had to consider. 
+The final page of the website is a form page. this page requires information input from the user. knowing this there were a few factors I had to consider. 
 
 Firstly making it as convient as possible , secondly making it clear as to what will be required and where. 
 
-Finally as it is an area where its mistake prone i had to add the required feature so nothing is missed and ensuure each area is coded correctly so the company can utilise all the information recieved.
+Finally as it is an area where its mistake prone I had to add the required feature so nothing is missed and ensuure each area is coded correctly so the company can utilise all the information recieved.
 
 The website all led up to this point as it requires a final decision to complete the form on which service they would like so this form will only be effictive if all other stages had complete their intended duty.
 
 ## 7. Footer
 
-The footer i used in this website is a modern simplistic one. I decided to avoid clutter by adding text to it as often it doesnt add any value to the user and can distract from the relevant content.
+The footer I used in this website is a modern simplistic one. I decided to avoid clutter by adding text to it as often it doesnt add any value to the user and can distract from the relevant content.
 
-So it is more of a social media contact bar. it is clear and obvious what is provided in it and the use of icons keeps space used to a minimum but provides familiarity to users.
+So it is more of a social media contact bar. It is clear and obvious what is provided in it and the use of icons keeps space used to a minimum but provides familiarity to users.
 
 
 
 # **Technologies used**
 ## Websites
 
-In the creation of this website there were multiple websites i used. below is a list to credit them and their use in my site.
+In the creation of this website there were multiple websites I used. Below is a list to credit them and their use in my site.
 __coolers__
 (https://coolors.co/palette/fffcf2-ccc5b9-403d39-252422-eb5e28)
 I used this site to chose my color pallete that would be the basis for my visual theme in the site. 
-This is the linnk to the color pallete I used.
+This is the link to the color pallete I used.
 
 __Slack__
 (https://slack.com/intl/en-ie/)
-slack used to see how issues from other students were solved and to help with my own issues and to find work arounds
+Slack used to see how issues from other students were solved and to help with my own issues and to find work arounds
 
 __Stackoverflow__
 (https://stackoverflow.com/)
@@ -187,37 +188,37 @@ I used 2 code validators for my site one for the html and one for the css.
  The Lighthouse developer tool was also used.
 
 I used these sites to continually assess my code during my project to clear any code errors early. 
-i did a final check of my code at the end and was only left with this notice which is okay as i do not want a header in this position.
+I did a final check of my code at the end and was only left with this notice which is okay as i do not want a header in this position.
 ?insetn ss///
 
 ## Manual testing
 
 The maual testing i done was mainly carried ut by using the command {python3 -m http.server}.
-this gave me a preview of the website and the code ive just added. so this would show me if the code has actually worked whether or not if the code is written correcly or not. 
+this gave me a preview of the website and the code ive just added. So this would show me if the code has actually worked whether or not if the code is written correcly or not. 
 
-This also was a big help with CSS and sizing as i could see what colours work and pictures but also see if the content is being laid out in the way i want.
+This also was a big help with CSS and sizing as i could see what colours work and pictures but also see if the content is being laid out in the way I want.
 
-Using the inspect function was a second way for me to text the website. i would use this to see how the page would be displayed with diffrent screen sizes.
-Using this i was able to adapt my code for mobile devices {MOTO g4 and iphone 12}.
+Using the inspect function was a second way for me to text the website. I would use this to see how the page would be displayed with diffrent screen sizes.
+Using this I was able to adapt my code for mobile devices {MOTO g4 and iphone 12}.
 
 
 ## Bugs and Fixes
 
-during this project i ran in to countless bugs issues and things i would have to just take a different approch with as i couldnt get it how i wanted.
+during this project I ran in to countless bugs issues and things I would have to just take a different approch with as I couldnt get it how I wanted.
 
 Here i will explaian briefly a select few of them.
 
-the fist issue i encountered was getting the nav bar to stick to the top of the page.
-i spent alot of time reseaching this and experimenting. 
-finally i got a resolution which seemed to be very different to sample solutions i found on the above websites. using the position: fixed element was my solution.
+The fist issue I encountered was getting the nav bar to stick to the top of the page.
+I spent alot of time reseaching this and experimenting. 
+Finally I got a resolution which seemed to be very different to sample solutions I found on the above websites. Using the position: fixed element was my solution.
 
-the next large issue was my landing page was not filling the whole screen. i had cleared all the padding and margin at the top but was still unsatisfactory. 
+The next large issue was my landing page was not filling the whole screen. I had cleared all the padding and margin at the top but was still unsatisfactory. 
 Following this i was met with an issue of the page creating a horizontal scroll bar for alot of blank space on the side. 
-this happened multiple times and following this project i will be looking to see how to avoid this in the future.
+This happened multiple times and following this project I will be looking to see how to avoid this in the future.
 
 ## Improvements
 
-There are three things i identified during my project and on review that i was unable to do, for lack of knowledge that i would have liked to incorporate. I hope to learn how to do this to be able to incorporate in future projects.
+There are three things I identified during my project and on review that I was unable to do, for lack of knowledge that I would have liked to incorporate. I hope to learn how to do this to be able to incorporate in future projects.
 
 I would like to add share or print option to the ourtimes page. 
 
@@ -230,7 +231,7 @@ This would add more purpose to the selection on this page as currently it just b
 I would like to add drop down menu on mobile to the nav bar.
 
 I feel this is almost required for todays website as the current nav bar required alot of resizing of text to get it to fit.
-so with a dropdown menu this would give a more comfortable feel.
+So with a dropdown menu this would give a more comfortable feel.
 
 # **Deployment**
 ## Github deployment
