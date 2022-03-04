@@ -10,7 +10,7 @@ To accomplish this I made sure to give the website claity and a path. The webist
 
 Overall, the website serves its purpose of being a promotional front and a point of contact that protrays the company in a positive and friendly manner.
 
-![image](assets/images/Screenshot 2022-03-01 at 22.03.56.png)
+![image](assets/images/readme-1.png)
 
 
 # Table of Contents:
@@ -97,6 +97,8 @@ The elements of the navigation bar will not only become interactive when you hov
 I did this as i have added links at the bottom of each page that will lead you sequentially to the next page in order. So this will leave the user with the most in-dept experience that has a flow.
 I also added the ability to use the logo as a way back to the home as this is a standard in todays websites.
 
+
+![Image](assets/images/readme-3.png)
 
 ## 2. Landing page
 
@@ -189,7 +191,7 @@ I used 2 code validators for my site one for the html and one for the css.
 
 I used these sites to continually assess my code during my project to clear any code errors early. 
 I did a final check of my code at the end and was only left with this notice which is okay as i do not want a header in this position.
-?insetn ss///
+![Images](assets/images/readme-2.png)
 
 ## Manual testing
 
